@@ -1,0 +1,10 @@
+E:\FACULTATE\AN 2\SEMESTRU 4\SGBD\Labs\Lab1\Lab1\bin\Debug\Lab1.exe.config
+E:\FACULTATE\AN 2\SEMESTRU 4\SGBD\Labs\Lab1\Lab1\bin\Debug\Lab1.exe
+E:\FACULTATE\AN 2\SEMESTRU 4\SGBD\Labs\Lab1\Lab1\bin\Debug\Lab1.pdb
+E:\FACULTATE\AN 2\SEMESTRU 4\SGBD\Labs\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+E:\FACULTATE\AN 2\SEMESTRU 4\SGBD\Labs\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+E:\FACULTATE\AN 2\SEMESTRU 4\SGBD\Labs\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+E:\FACULTATE\AN 2\SEMESTRU 4\SGBD\Labs\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+E:\FACULTATE\AN 2\SEMESTRU 4\SGBD\Labs\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+E:\FACULTATE\AN 2\SEMESTRU 4\SGBD\Labs\Lab1\Lab1\obj\Debug\Lab1.exe
+E:\FACULTATE\AN 2\SEMESTRU 4\SGBD\Labs\Lab1\Lab1\obj\Debug\Lab1.pdb
